@@ -34,7 +34,7 @@ print (red+"""
 ╚═╝╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
                                                       v 1.0
 """+red)
-print (lgreen+bold+"         <===[[ coded by 💀 TEAM BLACK HAT 💀 ]]===> \n"+clear)
+print (lgreen+bold+"         <===[[ coded by cyber recon hub]]===> \n"+clear)
 print (yellow+bold+"   <---(( search on youtube naveen_anon ))--> \n"+clear)
 
 
