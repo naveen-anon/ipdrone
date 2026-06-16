@@ -1,4 +1,4 @@
-#coded by 💀TEAM BLACK HAT 💀 (naveen_anon)
+#coded by cyber Recon hub (naveen_anon)
 
 #modules required
 import argparse
