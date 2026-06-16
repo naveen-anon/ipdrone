@@ -49,6 +49,7 @@ try:
         b = cyan+bold+"[$]"
         print (a, "[Victim]:", data['query'])
         print(red+"<--------------->"+red)
+        print(data)
         print(b, "[ISP]:", data['isp'])
         print(red+"<--------------->"+red)
         print (a, "[Organisation]:", data['org'])
